@@ -1,0 +1,15 @@
+
+
+.scoreButton{
+  /* top,bottom and left,right */
+  padding:20px;
+  background-color:var(--secondary-color);
+  margin:20px;
+  font-size: 20px;
+  border:none;
+
+}
+.scoreButton:hover {
+  cursor:pointer;
+  background-color: chartreuse;
+}
